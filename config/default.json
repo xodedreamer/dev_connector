@@ -1,3 +1,6 @@
 {
-  "mongoURI": "mongodb+srv://xode123:xode123@devconnector-dfirc.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://xode123:xode123@devconnector-dfirc.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "48e1ba38f2bbc5ef8dee",
+  "githubSecret": "ffc94345181009a9eb1801d59ba6c2d01a3e75c3"
 }
